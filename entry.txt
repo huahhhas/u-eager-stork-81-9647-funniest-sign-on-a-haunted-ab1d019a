@@ -1,1 +1,1 @@
-DO NOT REBOOT THE GHOST. It has had 100% uptime since 1987 and it is very proud of that.
+NOTICE: The ghost in Rack 4 has root access now. Please stop asking it to fix the Wi-Fi.
